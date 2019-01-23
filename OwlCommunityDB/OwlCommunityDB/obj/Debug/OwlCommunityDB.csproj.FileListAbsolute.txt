@@ -1,0 +1,11 @@
+C:\Users\tug41822\Documents\Visual Studio 2017\OwlCommunityDB\OwlCommunityDB\bin\Debug\bin\Debug\Resources\OwlMemberDB.accdb
+C:\Users\tug41822\Documents\Visual Studio 2017\OwlCommunityDB\OwlCommunityDB\bin\Debug\OwlCommunityDB.exe.config
+C:\Users\tug41822\Documents\Visual Studio 2017\OwlCommunityDB\OwlCommunityDB\bin\Debug\OwlCommunityDB.exe
+C:\Users\tug41822\Documents\Visual Studio 2017\OwlCommunityDB\OwlCommunityDB\bin\Debug\OwlCommunityDB.pdb
+C:\Users\tug41822\Documents\Visual Studio 2017\OwlCommunityDB\OwlCommunityDB\obj\Debug\OwlCommunityDB.frmMainForm.resources
+C:\Users\tug41822\Documents\Visual Studio 2017\OwlCommunityDB\OwlCommunityDB\obj\Debug\OwlCommunityDB.Properties.Resources.resources
+C:\Users\tug41822\Documents\Visual Studio 2017\OwlCommunityDB\OwlCommunityDB\obj\Debug\OwlCommunityDB.csproj.GenerateResource.cache
+C:\Users\tug41822\Documents\Visual Studio 2017\OwlCommunityDB\OwlCommunityDB\obj\Debug\OwlCommunityDB.csproj.CoreCompileInputs.cache
+C:\Users\tug41822\Documents\Visual Studio 2017\OwlCommunityDB\OwlCommunityDB\obj\Debug\OwlCommunityDB.exe
+C:\Users\tug41822\Documents\Visual Studio 2017\OwlCommunityDB\OwlCommunityDB\obj\Debug\OwlCommunityDB.pdb
+C:\Users\tug41822\Documents\Visual Studio 2017\OwlCommunityDB\OwlCommunityDB\obj\Debug\OwlCommunityDB.csprojAssemblyReference.cache
